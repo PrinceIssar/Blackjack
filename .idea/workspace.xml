@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44556348-c634-497d-b64d-f2147ebc2556" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/back1.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +23,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1rnZlPDmpmdrnT5KNXtNqmuxWTf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -55,6 +55,7 @@
       <updated>1619613964519</updated>
       <workItem from="1619613968808" duration="1632000" />
       <workItem from="1619619077197" duration="8390000" />
+      <workItem from="1619678963754" duration="9909000" />
     </task>
     <servers />
   </component>
